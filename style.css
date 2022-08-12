@@ -81,6 +81,7 @@
  }
 
  .section-1-img-mobile-div {
+     /* border: 2px solid red; */
      font-size: 0;
  }
 
@@ -442,6 +443,10 @@
      .section-1-div-background {
          position: relative;
          padding-bottom: 7.5rem;
+     }
+
+     .section-1-img-mobile {
+         width: 100%;
      }
 
      .section-1-text-div {
